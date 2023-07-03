@@ -1,9 +1,9 @@
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using demoProj.Service;
+using FootballPlayerSimpleDemo.Service;
 
-namespace demoProj.ViewModel;
+namespace FootballPlayerSimpleDemo.ViewModel;
 
 public interface IPlayersPageViewModel : INotifyPropertyChanged
 {

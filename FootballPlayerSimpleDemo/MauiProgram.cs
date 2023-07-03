@@ -1,8 +1,8 @@
-﻿using demoProj.Service;
-using demoProj.ViewModel;
+﻿using FootballPlayerSimpleDemo.Service;
+using FootballPlayerSimpleDemo.ViewModel;
 using Microsoft.Extensions.Logging;
 
-namespace demoProj;
+namespace FootballPlayerSimpleDemo;
 
 public static class MauiProgram
 {

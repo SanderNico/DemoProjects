@@ -1,4 +1,4 @@
-namespace demoProj.Model;
+namespace FootballPlayerSimpleDemo.Model;
 
 public class Player
 {

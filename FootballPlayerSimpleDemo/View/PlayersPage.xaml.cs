@@ -1,6 +1,6 @@
-﻿using demoProj.ViewModel;
+﻿using FootballPlayerSimpleDemo.ViewModel;
 
-namespace demoProj;
+namespace FootballPlayerSimpleDemo;
 
 public partial class PlayersPage : ContentPage
 {

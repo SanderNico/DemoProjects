@@ -1,6 +1,6 @@
-using demoProj.Model;
+using FootballPlayerSimpleDemo.Model;
 
-namespace demoProj.ViewModel;
+namespace FootballPlayerSimpleDemo.ViewModel;
 
 public class PlayerViewModel : IPlayerViewModel
 {

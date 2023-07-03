@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace demoProj;
+namespace FootballPlayerSimpleDemo;
 
 public class Program
 {

@@ -1,6 +1,6 @@
-using demoProj.Model;
+using FootballPlayerSimpleDemo.Model;
 
-namespace demoProj.Service;
+namespace FootballPlayerSimpleDemo.Service;
 
 public interface IPlayersService
 {

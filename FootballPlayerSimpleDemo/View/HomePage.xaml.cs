@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace demoProj.View;
+namespace FootballPlayerSimpleDemo.View;
 
 public partial class HomePage : ContentPage
 {

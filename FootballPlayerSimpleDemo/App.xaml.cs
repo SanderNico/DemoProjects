@@ -1,4 +1,4 @@
-﻿namespace demoProj;
+﻿namespace FootballPlayerSimpleDemo;
 
 public partial class App : Application
 {

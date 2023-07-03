@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace demoProj;
+namespace FootballPlayerSimpleDemo;
 
 [Application]
 public class MainApplication : MauiApplication
